@@ -20,3 +20,4 @@
 
 ### 处理请求超时
 
+[使用context处理超时](https://github.com/zhangpetergo/goexamples/blob/main/timeout/context/main.go)
